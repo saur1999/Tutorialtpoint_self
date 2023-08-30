@@ -1,1 +1,4 @@
-Hello this first text to Git repo
+Hello Saurabh Zende
+You have to complete Devops and cloud in next 4months and move away from current position 
+
+ 
